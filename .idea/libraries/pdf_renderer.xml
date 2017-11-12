@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pdf-renderer">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/pdf-renderer.jar/pdf-renderer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

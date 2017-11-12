@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: pdfa-7.0.4.jar layout-7.0.4.jar forms-7.0.4.jar bcmail-jdk
+ 16-140.jar slf4j-api-1.7.13.jar OpenViewerFX-7.12.28.jar sign-7.0.4.j
+ ar dropbox-core-sdk-3.0.5.jar pdfbox-2.0.7.jar jackson-core-2.7.4.jar
+  hyph-7.0.4.jar fontbox-2.0.7.jar barcodes-7.0.4.jar io-7.0.4.jar mys
+ ql-connector-java-6.0.6.jar bcprov-jdk16-140.jar kernel-7.0.4.jar com
+ mons-logging-1.2.jar org.mozilla.javascript-1.7.2.jar font-asian-7.0.
+ 4.jar
+Main-Class: main.main
+

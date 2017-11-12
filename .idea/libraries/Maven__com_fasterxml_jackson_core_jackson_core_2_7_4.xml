@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.7.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.7.4/jackson-core-2.7.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.7.4/jackson-core-2.7.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.7.4/jackson-core-2.7.4-sources.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/itext7-7.0.4" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/slf4j-1.7.25/slf4j-jdk14/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/slf4j-1.7.25/slf4j-jdk14/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/Compressed/itext7-7.0.4" recursive="false" type="SOURCES" />
+  </library>
+</component>
